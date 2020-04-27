@@ -45,7 +45,7 @@ int main()
 
     int size;
 
-	printf("Enter the number of numbers you want to sort: ");
+	printf("Enter the num of numbers you want to sort: ");
 
 	scanf("%d", &size);
 
